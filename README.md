@@ -9,3 +9,4 @@ Every time you add a new volume the mass of each object is measured and plotted.
 
 Instructions: Click on the Add Volume button and add a new volume to see how the
 mass of an object changes. A point will be plotted based on the mass and volume.
+![image](https://github.com/user-attachments/assets/8db682a8-827c-44d0-aad9-370ef43c6e70)
